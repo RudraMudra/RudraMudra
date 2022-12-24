@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mudrarudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mudrarudra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rudra narayan mudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra narayan mudra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rudra-narayan-mudra-060615147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra narayan mudra" height="30" width="40" /></a>
 <a href="https://instagram.com/@me_rudra905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@me_rudra905" height="30" width="40" /></a>
 </p>
 
