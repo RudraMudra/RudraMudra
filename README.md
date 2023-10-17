@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mudrarudra" target="blank"><img src="https://img.shields.io/twitter/follow/mudrarudra?logo=twitter&style=for-the-badge" alt="mudrarudra" /></a> </p>
 
-- 🔭 I’m currently working on Full stack projects **Retail Ecom**
+- 🔭 I’m currently working on **Full stack projects** 
 
 - 🌱 I’m currently learning UI full stack Web development **ReactJs, NodeJs, Javascript**
 
