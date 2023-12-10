@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help in my full stack projects **React based project**
 
-- 👨‍💻 All of my projects are available at Github [https://github.com/TYRANNY905](https://github.com/TYRANNY905)
+- 👨‍💻 All of my projects are available at Github [https://github.com/RudraMudra](https://github.com/RudraMudra)
 
 - 📫 How to reach me **mudra.rudra123@gmail.com**
 
