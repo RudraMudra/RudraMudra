@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudra Narayan Mudra</h1>
-<h3 align="center">3rd year Computer Science student. Seeking to leverage and apply my skills towards designing Full Stack applications and develop intuitive and scalable solutions. Aspiring to learn new and emerging technologies which will add value to the technology landscape.</h3>
+<h3 align="center">Final year Computer Science student. Seeking to leverage and apply my skills towards designing Full Stack applications and develop intuitive and scalable solutions. Aspiring to learn new and emerging technologies which will add value to the technology landscape.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyranny905&label=Profile%20views&color=0e75b6&style=flat" alt="tyranny905" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudramudra&label=Profile%20views&color=0e75b6&style=flat" alt="rudramudra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyranny905" alt="tyranny905" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudramudra" alt="rudramudra" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mudrarudra" target="blank"><img src="https://img.shields.io/twitter/follow/mudrarudra?logo=twitter&style=for-the-badge" alt="mudrarudra" /></a> </p>
 
