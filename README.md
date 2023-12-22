@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full stack projects** 
 
-- 🌱 I’m currently learning UI full stack Web development **ReactJs, NodeJs, Javascript**
+- 🌱 I’m currently learning MERN Stack **ReactJs, NodeJs, Javascript**
 
 - 🤝 I’m looking for help in my full stack projects **React based project**
 
