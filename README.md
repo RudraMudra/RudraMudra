@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudra Narayan Mudra</h1>
-<h3 align="center">Final year Computer Science student. Seeking to leverage and apply my skills towards designing Full Stack applications and develop intuitive and scalable solutions. Aspiring to learn new and emerging technologies which will add value to the technology landscape.</h3>
+<h3 align="center">Software Engineer with practical experience focused on full-stack web development. Demonstrates highest proficiency through:
+Developing a full-stack web application enhancing user engagement and optimizing load times- Creating responsive designs and
+ user interfaces using cutting-edge technologies like React.js and Node.js- Implementing RESTful APIs to streamline backend
+ communication By leveraging technical skill sets and industry insights, aims to collaboratively innovate and contribute to growth
+ initiatives as part of a dynamic software engineering team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudramudra&label=Profile%20views&color=0e75b6&style=flat" alt="rudramudra" /> </p>
 
