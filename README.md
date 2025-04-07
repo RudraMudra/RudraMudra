@@ -54,9 +54,13 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/RudraMudra/RudraMudra/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RudraMudra/RudraMudra/output/pacman-contribution-graph-dark.svg">
