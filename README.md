@@ -26,4 +26,4 @@ Hi 👋! My name is Rudra Narayan Mudra and I'm a recent graduate from ITER, SOA
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/rudra-narayan-mudra-060615147/" target="_blank">Rudra Narayan Mudra</a> Email: mudra.rudra123@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/rudranarayanmudra/" target="_blank">Rudra Narayan Mudra</a> Email: mudra.rudra123@gmail.com</p>
