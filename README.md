@@ -112,9 +112,9 @@ Institute of Technical Education and Research (ITER), Bhubaneswar
 
 <div align="center">
 
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff)
+![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudraMudra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraMudra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff)
 
 </div>
 
@@ -135,7 +135,7 @@ I'm always open to interesting projects, collaborations, or just a good tech con
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=61DAFB&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RudraMudra&color=61DAFB&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   *"First, solve the problem. Then, write the code."*
 </div>
