@@ -111,11 +111,16 @@ Institute of Technical Education and Research (ITER), Bhubaneswar
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudraMudra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraMudra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff)
-
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=RudraMudra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" height="180" alt="Rudra's GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraMudra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff" height="180" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
