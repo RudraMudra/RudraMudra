@@ -11,9 +11,8 @@
 
 ### Full-Stack Software Engineer · React.js · Node.js · TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudranarayanmudra/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudra.rudra123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -76,7 +75,7 @@ Currently working at **NLDSOFT**, where I build web applications for Cable TV, I
 ## 🚀 Projects
 
 ### 🔌 CableBiz — Unified Cable & Internet Customer Portal
-`June – Aug 2025` · [Live App](#)
+`June – Aug 2025` · [Live App](https://play.google.com/store/search?q=cablebiz&c=apps)
 
 > A scalable customer management portal for cable and internet service providers.
 
@@ -88,7 +87,7 @@ Currently working at **NLDSOFT**, where I build web applications for Cable TV, I
 ---
 
 ### 📦 StockFlow — Inventory Management System
-[GitHub](#) · [Live Site](#)
+[GitHub](https://github.com/RudraMudra/Inventory-management) · [Live Site](#)
 
 > A full-stack inventory management application with forecasting capabilities.
 
@@ -133,7 +132,6 @@ I'm always open to interesting projects, collaborations, or just a good tech con
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudra.rudra123@gmail.com)
-[![Call Me](https://img.shields.io/badge/+91_7846977195-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917846977195)
 
 </div>
 
